@@ -210,3 +210,4 @@ of separate requests to endpoints like `/post/:id/body` and
 `/post/:id/title` and `/post/:id/author`, would we? There has to be a
 better way!
 
+<p data-visibility='hidden'>PHRG Returning String Data</p>

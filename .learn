@@ -7,3 +7,5 @@ languages:
   - ruby
   - javascript
 resources: 0
+
+parent_template: git@github.com:learn-co-curriculum/returning-string-data.git
